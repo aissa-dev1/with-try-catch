@@ -1,4 +1,4 @@
-import { withTryCatch } from "./main.ts";
+import { withTryCatch } from "./mod.ts";
 import { assertEquals } from "@std/assert";
 
 Deno.test("withTryCatch error", async () => {
