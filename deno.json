@@ -1,6 +1,6 @@
 {
   "name": "@aissadev1/with-try-catch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "exports": "./mod.ts",
   "imports": {
