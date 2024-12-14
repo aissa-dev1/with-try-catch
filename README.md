@@ -1,8 +1,4 @@
-# @aissadev1/with-try-catch
-
-A utility function for handling asynchronous and synchronous functions with try-catch in Deno.
-
-## Example
+## Examples
 
 Example with a Function Returning Data
 
@@ -44,6 +40,12 @@ Add the package using JSR:
 
 ```bash
 deno add jsr:@aissadev1/with-try-catch
+```
+
+or
+
+```bash
+npx jsr add @aissadev1/with-try-catch
 ```
 
 ## Import
